@@ -1,0 +1,1 @@
+Para executar o game escolha primeiro a dificuldade e depois informe o nome do jogador. 
